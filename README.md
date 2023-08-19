@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Luca-Ricci
+- 👀 I’m interested in robotics, coding and electronics. Sometimes I put a hat on my head, the color depends a lot on my mood
+- 🌱 I’m currently learning how to develop android apps that interface with your phone's USB-C port
+- 💞️ I’m looking to collaborate on pretty much anything, the more I can learn from others the better!
+- 📫 How to reach me luca.ricci.works@gmail.com
